@@ -4,5 +4,3 @@
 
 ## 公開URL
 - **公開URL**: [https://git-ksk.github.io/tsumikabu-privacy/](https://git-ksk.github.io/tsumikabu-privacy/)
-
-*※日英併記のドキュメントをホストしています。*
